@@ -1,5 +1,16 @@
 <resources>
     <string name="app_name">PrimeraApp</string>
-    <string name="hello">Hola mundo</string>
-    <string name="hello2">Hola mundo 2</string>
+    <string name="title">PrimeraApp</string>
+
+    <string name="Subtitle">Subtitulo</string>
+
+    <string name="Option">Opcion 1</string>
+    <string name="Option2">Opcion 2</string>
+    <string name="Option3">Opcion 3</string>
+
+    <string name="text">Texto 1</string>
+    <string name="text2">Texto 2</string>
+    <string name="text3">Texto 3</string>
+
+
 </resources>
