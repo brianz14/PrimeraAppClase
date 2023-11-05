@@ -76,7 +76,6 @@
             android:textSize="20sp"></TextView>
 
     </LinearLayout>
-    <!--texto-->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -84,33 +83,35 @@
 
 
         <TextView
+            android:id="@+id/t1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginHorizontal="33dp"
             android:layout_weight="1"
             android:text="@string/text"
             android:textAlignment="center"
             android:textSize="20sp"></TextView>
 
         <TextView
+            android:id="@+id/t2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginHorizontal="33dp"
             android:layout_weight="1"
             android:text="@string/text2"
             android:textAlignment="center"
             android:textSize="20sp"></TextView>
 
         <TextView
+            android:id="@+id/t3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginHorizontal="33dp"
             android:layout_weight="1"
             android:text="@string/text3"
             android:textAlignment="center"
             android:textSize="20sp"></TextView>
 
     </LinearLayout>
+    <!--texto-->
+
 
 
 </LinearLayout>

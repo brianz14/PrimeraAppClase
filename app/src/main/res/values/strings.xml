@@ -1,12 +1,12 @@
 <resources>
     <string name="app_name">PrimeraApp</string>
-    <string name="title">PrimeraApp</string>
+    <string name="title">Título</string>
 
     <string name="Subtitle">Subtitulo</string>
 
-    <string name="Option">Opcion 1</string>
-    <string name="Option2">Opcion 2</string>
-    <string name="Option3">Opcion 3</string>
+    <string name="Option">Opción 1</string>
+    <string name="Option2">Opción 2</string>
+    <string name="Option3">Opción 3</string>
 
     <string name="text">Texto 1</string>
     <string name="text2">Texto 2</string>
